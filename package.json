@@ -26,7 +26,7 @@
   },
   "homepage": "https://github.com/chirag127/SmartMate-AI#readme",
   "dependencies": {
-    "dotenv": "^16.4.5"
+    "dotenv": "^16.6.1"
   },
   "devDependencies": {
     "eslint": "^8.57.0",
