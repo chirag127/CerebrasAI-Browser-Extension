@@ -1,0 +1,12 @@
+/* Glassmorphism & Modern UI */
+body{font-family:Arial,Helvetica,sans-serif;background:linear-gradient(135deg,#e0e0e0,#f5f5f5);margin:0;padding:0;display:flex;flex-direction:column;min-height:100vh;}
+section{padding:2rem;max-width:800px;margin:auto;}
+.hero{background:rgba(255,255,255,0.25);backdrop-filter:blur(10px);border-radius:12px;box-shadow:0 4px 30px rgba(0,0,0,0.1);text-align:center;}
+.hero h1{font-size:3rem;margin-bottom:0.5rem;}
+.hero p{font-size:1.2rem;margin-bottom:1.5rem;}
+.btn{display:inline-block;margin:0.5rem;padding:0.8rem 1.5rem;background:rgba(255,255,255,0.2);border-radius:8px;color:#000;text-decoration:none;transition:background 0.3s;}
+.btn:hover{background:rgba(255,255,255,0.4);}
+.features ul{list-style:none;padding:0;}
+.features li{background:rgba(255,255,255,0.15);margin:0.5rem 0;padding:0.5rem 1rem;border-radius:8px;}
+footer{margin-top:auto;background:rgba(255,255,255,0.2);backdrop-filter:blur(8px);text-align:center;padding:1rem;}
+footer a{margin:0 0.5rem;color:#000;text-decoration:none;}
